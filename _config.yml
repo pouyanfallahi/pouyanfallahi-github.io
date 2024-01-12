@@ -1,0 +1,12 @@
+# Site settings
+title: Pouyan Fallahi  # Your name or the title for your website
+description: >-  # A brief description of your website
+  Pouyan's personal webpage.
+
+url: "pouyanfallahi.github.io"  # Your website URL
+github_username: pouyanfallahi  # Your GitHub username
+
+# Build settings
+theme: minima
+plugins:
+  - jekyll-feed
